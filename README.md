@@ -8,3 +8,5 @@ Redux Toolkit экспортирует несколько отдельных ф�
 
 ![Иллюстрация к проекту](https://github.com/8807010/Redux-Toolkit/blob/master/Scr.jpg)
 
+![Иллюстрация к проекту](https://github.com/8807010/Redux-Toolkit/blob/master/Src2.jpg)
+
