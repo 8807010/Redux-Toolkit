@@ -20,7 +20,7 @@ function App() {
             <h1 className='font-bold my-5'>Redux Toolkit Todo App</h1>
             <Form />
             {
-              todos.map((todo) => (
+              todos?.map((todo) => (
                 <TodoItem
                   key={todo.id}
                   todo={todo}
